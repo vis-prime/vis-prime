@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vis-prime
-- 👀 I’m interested in 3D, AR/VR/XR on desktop and mobile
+- 👋 Hello, this is @vis-prime
+- 👀 Dealing with everyting 3D, AR, VR, XR related on desktop and mobile
 
 
 
